@@ -21,21 +21,21 @@
           <i class="fa fa-bars" aria-hidden="true"></i>
           </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ml-auto" >
+          <ul class="navbar-nav ml-auto" class= "smooth-scroll list-unstyled">
           <li class="nav-item active">
           <a class="nav-link" href="index.html">HOME</a>
           </li>
           <li class="nav-item">
-          <a class="nav-link" href="index.html">SERVICES</a>
+          <a class="nav-link" href="#test1">SIGNUP</a>
           </li>
           <li class="nav-item">
-          <a class="nav-link" href="index.html">ABOUT US</a>
+          <a class="nav-link" href="#test2">LOGIN</a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="index.html">TESTIMONIALS</a>
+           <a class="nav-link" href="#test3">SOCIAL MEDIA</a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="index.html">CONTACT</a>
+           <a class="nav-link" href="#test4">CONTACT</a>
           </li>
           </ul>
         </div>
@@ -59,10 +59,10 @@
       <img src= "img/topfooter.jpg" class= "bottom-img">
     </section>
 
-    <!---Service section---->
+    <!---SIGNUP SECTION---->
     <section id= "services"> 
-      <div class="container text-center" >
-      <h1 class= "title" > <b> BITCOIN WALLET </b> </h1>
+    <div class="container text-center" id="test1" >
+       <h1 class= "title" ><b>SIGNUP</b></h1>
       <div class= "row text-center"> 
       <div class= "col-md-4 services"> 
         <img src="img/cryptotrading.jpg" class="service-img"></a>
@@ -79,11 +79,84 @@
         <h4> Bitcoin Minning</h4>
         <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo </p>
        </div> 
+
        </div> 
-         <a href="services.html"><button type= "button" class= "btn btn-primary">All Services</button></a>
+           <button type= "button" class= "btn btn-primary">SIGNUP</button>
        </div>
     </section>
 
-    
+           <!---Login--->
+    <section id ="about-us">
+      <div class="container" id="test2"> 
+         <h1 class="title text-center" > <b>LOGIN TO BITQUEST </b></h1>
+         <div class= "row">
+             <div class= "col-md-6 about-us">
+                  <p class= "about-title"><b> Why we are different ? </b></p>
+                  <ul>
+                  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit </li>
+                  <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat</li>
+                   <li> Aliquam tincidunt mauris eu risus.</li>
+                   <li> Vestibulum auctor dapibus neque.</li>
+                   <li> Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</li>
+                    </ul>
+                </div>
+                    <div class ="col-md-6"> 
+                      <img src="img/bitcoin.gif" class="img-fluid"></a>
+                   </div>
+                 </div> 
+            </div>
+            <button type= "button" class= "btn btn-primary" id= "logbutton">LOGIN</button>
+        </div>
+     </section>
+      
+      <!---Social Media---->
+    <section id="social-media">  
+    <div class= "container text-center" id="test3">
+    <p><b>find us on social media</b> </P>
+    <div class="social-icons"> 
+      <a href="https://www.facebook.com" target="_blank" rel="noreferrer"><img src="img/FB-icon.png" ></a>
+      <a href="https://www.instagram.com"target="_blank"rel="noreferrer"><img src="img/instergram.png"></a>
+      <a href="https://www.twitter.com"target="_blank"rel="noreferrer"><img src="img/twiter.png"></a>
+      <a  href="https://www.linkedin.com/login"target="_blank"rel="noreferrer"><img src="img/Linkedin.png"></a>
+      <a href="https://www.youtube.com/" target="_blank"><img src="img/Youtube.png"></a>
+    </div>
+    </div>
+    </section>
+
+
+
+     <!-----Footer------>
+
+    <section id= "footer"> 
+      <img src="img/lowerfooter.png" class="footer-img">
+      <div class="container" id ="test4">
+      <div class="row">
+      <div class="col-md-4 footer-box">
+       <img src="img/bitlogo.png">
+      <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante feugiat vitae, ultricies eget.</p>
+      </div>
+      <div class="col-md-4 footer-box">
+      <p><b>CONTACT US </b></p>
+      <p><i class="fa fa-map-marker" aria-hidden="true"> </i> Address: World Trade Center</p>
+      <p><i class="fa fa-phone-square" aria-hidden="true">     </i> Phone: +1-723-551-9098</p>
+      <p><i class="fa fa-envelope" aria-hidden="true"></i>           email: habitant@hotmail.com</p>
+      </div>
+      <div class="col-md-4 footer-box">
+      <p><b>SUBSCRIBE NEWS LETTER</b></p>
+      <input type ="email" placeholder="Your Email" class="form-control">
+      <button type="button" class="btn btn-primary">Subscribe </button>
+      </div>
+      </div>
+      <hr>
+      <p class ="copyright"> Website created by Algorithm Corporation </p>
+      </div>
+
+    </section>
+   <!----Smooth scroll--->
+
+   <script scr="smooth-scrooll.js"></script>
+   <script> var scroll = new SmoothScroll('a[href*="#"]');
+   </script>
+
 </body>
 </html>
