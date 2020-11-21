@@ -166,6 +166,18 @@ margin-top:8%;
 margin-left: 20px;
 }
 
+/*Login Button*/
+#logbutton{
+
+  box-shadow: none;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  margin-left: 45%;
+
+}
+
 /*Testimonials*/
 
 #testimonials
@@ -289,4 +301,16 @@ padding-bottom: 20px;
 text-align: center;
 font-size: 10px;
 
+}
+
+/*Scroll efferct for Services.html*/
+#test1::before,
+#test2::before,
+#test3::before,
+#test4::before {
+display: block;
+content: " ";
+margin-top: -65px;
+height: 65px;
+visibility: hidden;
 }
