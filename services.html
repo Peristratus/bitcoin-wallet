@@ -49,7 +49,7 @@
       <div class= "col-md-6">  
       <p class="promo-title"> BITQUEST WALLET </p>
       <p>SPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. </p>
-      <a href="https://www.youtube.com/watch?v=SzAuB2FG79A"target="_blank" rel="noreferrer"> <img src="img/Hplay-button.png" class="playbtn"> Watch the Video </a>
+      <a href="https://www.youtube.com/watch?v=cSy2ms0hHLs"target="_blank" rel="noreferrer"> <img src="img/Hplay-button.png" class="playbtn"> Watch the Video </a>
       </div>
       <div class="col-md-6 text-center" >
       <img src="img/C1.png" class="img-fluid">
@@ -110,9 +110,9 @@
              
               <!---The Modal-->
             <div id="id01" class ="modal">
-
+              <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
                 <!--Modal Content-->
-                 <form class ="modal-content animate" action="/action_page.php" method="post">
+                 <form class ="modal-content animate" action="https://formdump.codeinstitute.net/" method="post">
                     <div class="imgcontainer">
     
                         <img src="img/7at.png" alt="avatar" class ="avatar">
@@ -120,11 +120,11 @@
                 <div class="container">
                    <!---Username-->
                    <label for="uname"><b>Username</b></label>
-                   <input type="text" placeholder="Enter Username" name="uname" required>        
+                   <input class="text-input" type="text" placeholder="Enter Username" name="uname"  pattern="[a-zA-Z0-9]+" required>        
 
                    <!---Password-->
                     <label for="psw"><b>Password</b></label>
-                    <input type="password" placeholder="Enter Password" name="psw" required>
+                    <input class="text-input" type="password" placeholder="Enter Password" name="psw"  pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required>
 
                     <button type ="submit" id="loginbtn">Login</button>
                     <label>  
@@ -190,6 +190,17 @@
 
    <script scr="smooth-scrooll.js"></script>
    <script> var scroll = new SmoothScroll('a[href*="#"]');
+   </script>
+
+   <!------>
+   <script>
+    var modal = document.getElementById('id01');
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = 'none';
+        }
+
+    }
    </script>
 
 </body>
