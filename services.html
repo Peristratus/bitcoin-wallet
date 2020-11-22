@@ -91,7 +91,7 @@
          <h1 class="title text-center" > <b>LOGIN </b></h1>
          <div class= "row">
              <div class= "col-md-6 about-us">
-                  <p class= "about-title"><b> Why we are different ? </b></p>
+                  <p class= "about-title"><b> HOW TO LOGIN ? </b></p>
                   <ul>
                   <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit </li>
                   <li>Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat</li>
@@ -105,9 +105,43 @@
                    </div>
                  </div> 
             </div>
-            <button type= "button" class= "btn btn-primary" id= "logbutton">LOGIN</button>
+            <!--Button to open mondal form---->
+            <button type= "button" class= "btn btn-primary" id= "logbutton" onclick="document.getElementById('id01').style.display='block'">LOGIN</button>
+             
+              <!---The Modal-->
+            <div id="id01" class ="modal">
+
+                <!--Modal Content-->
+                 <form class ="modal-content animate" action="/action_page.php" method="post">
+                    <div class="imgcontainer">
+    
+                        <img src="img/7at.png" alt="avatar" class ="avatar">
+                    </div>
+                <div class="container">
+                   <!---Username-->
+                   <label for="uname"><b>Username</b></label>
+                   <input type="text" placeholder="Enter Username" name="uname" required>        
+
+                   <!---Password-->
+                    <label for="psw"><b>Password</b></label>
+                    <input type="password" placeholder="Enter Password" name="psw" required>
+
+                    <button type ="submit" id="loginbtn">Login</button>
+                    <label>  
+                    <input type="checkbox" checked="checked" name="remember"> Remember me </label>
+                </div>
+
+                <div class="container" sytle="background-color:#f1f1f1">
+                 <button type="button" onclick="document.getElementById('id01').style.display='none'" class ="cancelbtn">Cancel</button>
+                 <span class= "psw"> Forgot <a href="#"> Password?</a></span>
+                </div>
+             </form>
+             </div>
+        
+        
         </div>
-     </section>
+
+             </section>
       
       <!---Social Media---->
     <section id="social-media">  
