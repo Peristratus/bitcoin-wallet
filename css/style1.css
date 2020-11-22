@@ -158,6 +158,14 @@ background: #55acce;
 background: #dd4b39;
 
 }
+
+label input:valid + .text-input{
+  font-size: 13px;
+  -moz-transform: translateY(-74px);
+  -ms-transform: translateY(-74px);
+  -webkit-transform: translateY(-74px);
+  transform: translateY(-74px);
+}
 /* Not responding */
 
 @media screen and (max-width: 300px) {

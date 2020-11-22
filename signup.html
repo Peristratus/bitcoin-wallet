@@ -14,20 +14,20 @@
   </head>
 
  <body>
-   <form action="/action_page.php">
+   <form action="https://formdump.codeinstitute.net/" method="post">
     <div id="login-box">
          <!------Left Box----->
         <div class="left-box">
             <h1>Sign Up</h1>
 
             
-             <input type="text" placeholder="Username" name="username" required>
+             <input type="text" placeholder="Username" name="username" pattern="[a-zA-Z0-9]+" class="text-input" required>
 
-             <input type="text" placeholder="Enter Email" name="email" required>
+             <input class="text-input" type="text" placeholder="Enter Email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"required>
 
-             <input type="password" placeholder="Enter Password" name="password" required>
+             <input type="password" placeholder="Enter Password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"class="text-input" required>
 
-              <input type="password" placeholder="Repeat Password" name="password2" required>
+              <input type="password" placeholder="Repeat Password" name="password2" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" class="text-input"required>
 
               <input type ="submit" name="signup-button" value= "Sign Up">
               
