@@ -309,8 +309,7 @@ font-size: 10px;
 /*Scroll efferct for Services.html*/
 #test1::before,
 #test2::before,
-#test3::before,
-#test4::before {
+#test3::before{
 display: block;
 content: " ";
 margin-top: -65px;
