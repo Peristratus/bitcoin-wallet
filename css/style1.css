@@ -169,7 +169,7 @@ label input:valid + .text-input{
 /* Not responding */
 
 @media screen and (max-width: 300px) {
-#f{
+#login-box{
  width: 100%;
      }
 
