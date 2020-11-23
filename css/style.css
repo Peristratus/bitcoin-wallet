@@ -168,14 +168,15 @@ margin-left: 20px;
 
 /*Login Button*/
 #logbutton{
-
+  display: block;
   box-shadow: none;
   padding: 8px 25px;
   border: none;
   border-radius: 20px;
   background-image: linear-gradient(to right, #a517ba, #5f1782);
-  margin-left: 45%;
+  margin: 0px auto;
   margin-top: 30px;
+  
 
 }
 
