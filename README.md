@@ -36,9 +36,6 @@
  The table below will breifly describe the user stories for the functional and non-functional requirements, the user stories decribed in
  **Table 1.0** will be Independent, Negotiable, Valuable, Estimable, Smart and Testable, **INVEST** in nature and composition.
 
-HLR   |  HLR Ref# |    HLR Description    |            User Stories    |   Acceptance criteria  |   MoSCoW |
-------|---------- |-----------------------|----------------------------|------------------------|----------|
-Home  | H 1.0     | Home page access      | As a user I want to access  
-                                           the home page of  Bitquest 
-                                           so that  i can gain access 
-                                            to the site.               |            
+HLR   |  HLR Ref# |    HLR Description    |                              User Stories                                                    |                  Acceptance criteria                                           |   MoSCoW |
+------|---------- |-----------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------|
+Home  | H 1.0     | Home page access      | As a user I want to access the home page of  Bitquest so that  i can gain access to the site.|          
