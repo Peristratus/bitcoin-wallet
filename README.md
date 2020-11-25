@@ -20,7 +20,7 @@
  ## Description
 
  The inspiration for developing this website was to start to lay the foundations for a bitcoin/crypto currency wallet and trading platform, this
- is purley educational and part of my first project for the Canadian Business college as a full stack developer, i intend to build on this application
+ is purley educational at this juncture and part of my first project for the Canadian Business college as a full stack developer, i intend to build on this application
  as my skills evolve throughout my learning process, the website will slowly develop into a fully functional website with the first application 
  "crypto wallet" becoming fully funtional in the comming few months, the second stage devlopment will be a crypto currency platform and the 
  final stage development will be the AI trading bots. These two attributes will be added as my skill become more discerniable, I would also like to
