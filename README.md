@@ -5,3 +5,12 @@
 > predictive analysis on the next trade to the user, **unlike** any crypto trading platform the AI bot's will be owned by the user and not
 > by the COMPANY, this will make **our product** unique because the AI bot's are look out for the intrest of the user rather than
 > the COMPANY.
+--------
+### Table of Content
+
+-[Description](#description)
+ -[Technologies](#technologies)
+ -[UAT](#uat)
+ -[Refrences](#refernces)
+ -[Licenses](#licenses)
+ -[Arthur](#author)
