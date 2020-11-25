@@ -28,7 +28,7 @@
  discerniable, I would also like to collaborate with anyone on github to accomplish these set objectives. I hope to develop this project to 
  become ubiquitous with users around the world.
 
-------------------------------------
+----------------------------
  ## User-stories
 
  ### Requirement gathering
@@ -38,4 +38,7 @@
 
 HLR   |  HLR Ref# |    HLR Description    |            User Stories    |   Acceptance criteria  |   MoSCoW |
 ------|---------- |-----------------------|----------------------------|------------------------|----------|
-Home  | H 1.0    |        
+Home  | H 1.0     |  Acess home page      | As a user I want to access   
+                                            the home page of  Bitquest 
+                                            so that  i can gain access 
+                                            to the site.
