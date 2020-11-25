@@ -38,5 +38,5 @@
 
 HLR   |  HLR Ref# |    HLR Description    |                              User Stories                                                    |                                                      Acceptance criteria                                                                                        |  MoSCoW |
 ------|---------- |-----------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------
-Home  | H 1.0     | Home page access      | **As a** user **I want** to access the home page of Bitquest **so that** I can gain access to the site.| **Given** that the seller is on the BITQUEST platform, **When** they click on the Home Nav link **then** the system  will scroll to the home section. |     M   |
+Home  | H 1.0     | Home page access      | **As a** user **I want** to access the home page of Bitquest **so that** I can gain access to the site.| **Given** that the seller is on the Bitquest platform, **When** they click on the Home Nav link **then** the system  will scroll to the home section. |     M   |
      
