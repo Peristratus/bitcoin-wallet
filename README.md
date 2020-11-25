@@ -38,7 +38,7 @@
 
 HLR   |  HLR Ref# |    HLR Description    |            User Stories    |   Acceptance criteria  |   MoSCoW |
 ------|---------- |-----------------------|----------------------------|------------------------|----------|
-Home  | H 1.0     | Home page access      | As a user I want to access |  
-                                          | the home page of  Bitquest |
-                                          | so that  i can gain access |
-                                          |  to the site.              |
+Home  | H 1.0     | Home page access      | As a user I want to access  
+                                           the home page of  Bitquest 
+                                           so that  i can gain access 
+                                            to the site.               |            
