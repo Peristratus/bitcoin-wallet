@@ -16,6 +16,7 @@
  - [Licenses](#licenses)
  - [Arthur](#author)
 
+------------------------------------
 
  ## Description
 
@@ -26,3 +27,15 @@
  currency platform and the final stage development will be the AI trading bots. These two attributes will be added as my skill become more 
  discerniable, I would also like to collaborate with anyone on github to accomplish these set objectives. I hope to develop this project to 
  become ubiquitous with users around the world.
+
+------------------------------------
+ ## User-stories
+
+ ### Requirement gathering
+ 
+ The table below will breifly describe the user stories for the functional and non-functional requirements, the user stories decribed in
+ **Table 1.0** will be Independent, Negotiable, Valuable, Estimable, Smart and Testable, **INVEST** in nature and composition.
+
+HLR     HLR Ref#     HLR Description                User Stories            Acceptance criteria     MoSCoW
+------|----------|------------------------|----------------------------|------------------------|----------|
+Home   | H 1.0   |        
