@@ -98,9 +98,11 @@ APT-WSR-9.0 |H-1.0,S-2.0,T-3.0,C-4.0 & A-5.0 | Responsive Website    | APT-L-6.7
 ## Technologies 
 
 The technologies employed to develop this web application was based on the principles of Design for X (DFX) also know as Design for excellence, the basis of this methodology is based
-on cost to quality, making effective use of resources to minimize cost and relay more on innovation and technical knowledge to meet the users expectations. The software's used are free 
- and meets the industrial standards for website development, innovation and technical knowledge was based on my recently aquired skills based on my journey so far with Code institute 
- and the Canadisn Business college.
+on cost to quality, making effective use of resources to minimize cost and relay more on innovation and technical knowledge to meet the users expectations.The software's used are free 
+and meet the **Requirements Traceability Catalog Table 1.0** to develop this website, innovation and technical knowledge was based on my recently aquired skills based on my journey so 
+far with Code institute and the Canadian Business College.
+
+Technologies deployed on this project:
 
  1. For Wire frames, sitemap and UX design draw.io [draw.io](https://app.diagrams.net/)
  2. For Mock-ups Micrisoft Visio professional [Microsoft](https://www.microsoft.com/en-ca/microsoft-365/visio/free-visio-viewer)
@@ -111,7 +113,18 @@ on cost to quality, making effective use of resources to minimize cost and relay
  7. Java script code sequence and syntax deployed for index.html, services.html and smooth-scroll.js
  8. Bootstrap cnd 4.4.1 [Bootstrap](https://getbootstrap.com/)
  9. Bootstrap Jquery 3.4.1 [Bootstrap](https://getbootstrap.com/)
- 10. Bootstrap cnd font awesome [Bootstrap](https://getbootstrap.com/)
+ 10. Bootstrap cnd font awesome [Bootstrap](https://www.bootstrapcdn.com/fontawesome/)
  11. Smooth Scroll plug in V16.1.4 [GitHub](http://github.com/cferdinandi/smooth-scroll)
  12. Font Google Poppins [Fontgoogle](https://fonts.google.com/)
+
+## References
+
+I would like to make references to cetain educational Youtube tutorials and certain articles that have helped me devlop my skills as a Fullstack developer.
+
+1. Easy tutorials youtube video on responsive landing pages,websites, scroll plugins and login forms [easytutorial](https://www.youtube.com/c/EasyTutorialsVideo?sub_confirmation=1)
+2. Dev Ed Youtube tutorials on responsive web design and login forms [DevED](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+3. HTML/CSS security by sqreen online article [sqreen](https://www.sqreen.com/checklists/html-css-security-checklist)
+4. Input patterns online article [HTML.com](https://html.com/attributes/input-pattern/)
+5. W3 schools tutorials on Modal forms, HTML patterns and querry for HTML forms.
+6. Tutorial Republic on Modal video pop-ups tutorials.
 
