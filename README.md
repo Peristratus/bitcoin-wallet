@@ -143,8 +143,9 @@ All icons,logos and videos used on my website are only for educational purposes 
 8. Youtube Bitcoin wallet [Youtube](www.youtube.com/embed/cSy2ms0hHLs)
 
 ## Author 
-Name:Olaorebikan Roy Abdallah
-Institute: Canadaian Business College (code Institute).
-Designation: Student.
-Course: Fullstack Developer.
+
+*Name: Olaorebikan Roy Abdallah*
+*Institute: Canadaian Business College (code Institute).*
+*Designation: Student.*
+*Course: Fullstack Developer.*
 
