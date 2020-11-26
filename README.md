@@ -10,7 +10,7 @@
 
 -  [Description](#description)
  - [User-stories](#user-stories)
- - [User-Acceptance-Testing](#uat)
+ - [User-Acceptance-Testing](#User-Acceptance-Testing)
  - [Technologies](#technologies)
  - [Refrences](#refernces)
  - [Licenses](#licenses)
@@ -34,7 +34,9 @@
  ### Requirement gathering
  
  The table below will breifly describe the user stories for the functional and non-functional requirements, the user stories decribed in
- **Table 1.0** will be Independent, Negotiable, Valuable, Estimable, Smart and Testable, **INVEST** in nature and composition.
+ **Table 1.0 Requirement Traceability Catalog** will be Independent, Negotiable, Valuable, Estimable, Smart and Testable, **INVEST** in nature and composition.
+
+ *Table 1.0 Requirement Traceability Catalog*
 
 HLR   |  HLR Ref# |    HLR Description    |                              User Stories                                                    |                                                      Acceptance criteria                                                                                        |                                MoSCoW                                                                                                                |
 ------|---------- |-----------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -50,8 +52,30 @@ Login submit btn| L-6.2 | Gain access to submit button| **As a** user **I want**
 Login cancel btn| L-6.3 | Gain access to cancel button| **As a** user **I want** to access the Login cancel btn for Bitquest **so that** I can cancel my login.| **Given** that the user is on the Bitquest platform, **When** they click on the login cancel button **then** the system will close the modal form .|    M   |
 Login close btn | L-6.4 | Gain access to close button| **As a** user **I want** to access the Login close btn for Bitquest **so that** I can close my login form.| **Given** that the user is on the Bitquest platform, **When** they click on the login close button **then** the system will close the modal form .|    M   |
 Login close outside modal form| L-6.5 | Gain access to close the modal form| **As a** user **I want** to cliclk outside the modal form on Bitquest **so that** I can close my login form.| **Given** that the user is on the Bitquest platform, **When** they click outside the modal login form **then** the system will close the modal form .|    M   |
-Signup form | S-7.0 | Gain access to signup section| **As a** user **I want** to access the signup section of Bitquest **so that** I can gain access to the signup form.| **Given** that the user is on the Bitquest platform, **When** they click on the signup Nav link **then** the system  will go to the signup section, dispaly the form, the form will accept/ validate the users information |    M   |
-Signup form btn | S-7.1 | Gain access to signup button| **As a** user **I want** to access the signup btn form for Bitquest **so that** I can gain access to the signup form.| **Given** that the user is on the Bitquest platform, **When** they click on the signup btn **then** the system will go to the signup section, dispaly the form, the form will accept/ validate the users information. |    M   |
-Signup submit btn| S-7.2 | Gain access to submit button| **As a** user **I want** to access the signup submit btn for Bitquest **so that** I can submit my signup credentials.| **Given** that the user is on the Bitquest platform, **When** they click on the submit button **then** the system will validte the users input .|    M   |
+Signup form | SF-7.0 | Gain access to signup section| **As a** user **I want** to access the signup section of Bitquest **so that** I can gain access to the signup form.| **Given** that the user is on the Bitquest platform, **When** they click on the signup Nav link **then** the system  will go to the signup section, dispaly the form, the form will accept/ validate the users information |    M   |
+Signup form btn | SF-7.1 | Gain access to signup button| **As a** user **I want** to access the signup btn form for Bitquest **so that** I can gain access to the signup form.| **Given** that the user is on the Bitquest platform, **When** they click on the signup btn **then** the system will go to the signup section, dispaly the form, the form will accept/ validate the users information. |    M   |
+Signup submit btn| SF-7.2 | Gain access to submit button| **As a** user **I want** to access the signup submit btn for Bitquest **so that** I can submit my signup credentials.| **Given** that the user is on the Bitquest platform, **When** they click on the submit button **then** the system will validte the users input .|    M   |
+
+
+## User-Acceptance-Testing
+
+The UAT will define the criteria by which the website is considered to be "working",high, medium or low defects will be identified and cataloged for further improvements or regression Testing.
+The UAT critreria and results will confirm if the website can handle required task in a real-world scenarios, according to the Requirements Traceability Catalog Table 1.0.
+
+*Table 2.0 User Acceptance Testing (UAT)*
+
+
+ Test#    | User stories Ref# |        Description of task        |               Steps to evaluate    |                        Expected Result                                                                                                                                                  |  Pass |  Fail |   Defects/Comments/Additions  |
+--------  |-------------------|-----------------------------------|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|-------------------------------| 
+AP-H-1.0  | H-1.0             | Home nav link                     | AP-H-1.1: Click home Nav link      | The button should be funtional and scroll to the home section of the website                                                                                                            |       |       |                               |
+AP-S-2.0  | S-2.0             | Services nav link                 | AP-S-2.1: Click services Nav link  | The button should be funtional and scroll to the services section of the website                                                                                                        |       |       |                               |                                                                                    
+AP-S-2.0  | S-2.1             | All Services button               | AP-S-2.1.1: Click All services button| The button should be funtional and load the second page of the the website                                                                                                            |       |       |                               |                                                                                         
+AP-T-3.0  | T-3.0             | Testimonials nav link             | AP-S-3.1: Click Testimonials Nav link| The button should be funtional and scroll to the testimonials section of the website                                                                                                  |       |       |                               |                                                                                    
+AP-C-4.0  | C-4.0             | Contact nav link                  | AP-S-4.1: Click Contact Nav link|      The button should be funtional and scroll to the contact section of the website                                                                                                       |       |       |                               |                                                                                     
+AP-A-5.0  | A-5.0             | Testimonials nav link             | AP-T-5.1: Click Testimonials Nav link| The button should be funtional and scroll to the Testimonials section of the website                                                                                                  |       |       |                               |                                                                        
+AP-L-6.0  | L-6.0             | Login nav link                    | AP-L-6.1: Click login Nav link| The button should be funtional and load second page of the website, once it is clicked a second time it should scroll to the login button                                                    |       |       |                               |
+AP-L-6.1  | L-6.1             | Login form button                 | AP-L-6.1.1: Click login button | The button should be funtional and display the modal form.                                                                                                                                  |       |       |                               |                                                                
+AP-L-6.2  | L-6.2             | Login submit button               | AP-L-6.2.1: Click submit button | The button should be funtional, the system should evaluate the form feilds and determin the accuracy of the users input to either accept and confirm submission or reject users inputs.    |       |       |                               |
+AP-L-6.3  | L-6.3             | Login cancel button               | AP-L-6.3.1: Click cancel  button | The button should be funtional, the system should cancel the login process and exit the modal form.                                                                                       |       |       |                               |
 
 
