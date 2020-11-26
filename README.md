@@ -119,7 +119,8 @@ Technologies deployed on this project:
 
 ## References
 
-I would like to make references to cetain educational Youtube tutorials and certain articles that have helped me devlop my skills as a Fullstack developer.
+I would like to make references to cetain educational Youtube tutorials and certain articles that have helped with my webdesign develop my skills as a Fullstack developer.
+
 
 1. Easy tutorials youtube video on responsive landing pages,websites, scroll plugins and login forms [easytutorial](https://www.youtube.com/c/EasyTutorialsVideo?sub_confirmation=1)
 2. Dev Ed Youtube tutorials on responsive web design and login forms [DevED](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
@@ -127,4 +128,23 @@ I would like to make references to cetain educational Youtube tutorials and cert
 4. Input patterns online article [HTML.com](https://html.com/attributes/input-pattern/)
 5. W3 schools tutorials on Modal forms, HTML patterns and querry for HTML forms.
 6. Tutorial Republic on Modal video pop-ups tutorials.
+
+## Licenses
+
+All icons,logos and videos used on my website are only for educational purposes and will not be used for the commercial version:
+
+1. Social medial icons free version from icon8 [icon8](https://icons8.com/icons/set/youtube-icon)
+2. Hero logo page1 from png tree [pngtree](https://icons8.com/icons/set/youtube-icon)
+3. Footer icons [fontawawesome](https://fontawesome.com/v4.7.0/icons/)
+4. Bitcoin images and gif image free online images.
+5. Testimonial images free online model(s) smiling images.
+6. Hero logo page 2 [pngtree](https://icons8.com/icons/set/youtube-icon)
+7. Youtube BBC bitcoin video [BBC](www.youtube.com/embed/SzAuB2FG79A)
+8. Youtube Bitcoin wallet [Youtube](www.youtube.com/embed/cSy2ms0hHLs)
+
+## Author 
+Name:Olaorebikan Roy Abdallah
+Institute: Canadaian Business College (code Institute).
+Designation: Student.
+Course: Fullstack Developer.
 
