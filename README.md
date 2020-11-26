@@ -31,7 +31,7 @@
 ----------------------------
  ## User-stories
 
- ### Requirement gathering
+ ### Requirement Gathering
  
  The table below will breifly describe the user stories for the functional and non-functional requirements, the user stories decribed in
  **Table 1.0 Requirement Traceability Catalog** will be Independent, Negotiable, Valuable, Estimable, Smart and Testable, **INVEST** in nature and composition.
@@ -55,7 +55,7 @@ Login close outside modal form| L-6.5 | Gain access to close the modal form| **A
 Signup form | SF-7.0 | Gain access to signup section| **As a** user **I want** to access the signup section of Bitquest **so that** I can gain access to the signup form.| **Given** that the user is on the Bitquest platform, **When** they click on the signup Nav link **then** the system  will go to the signup section, dispaly the form, the form will accept/ validate the users information |    M   |
 Signup form btn | SF-7.1 | Gain access to signup button| **As a** user **I want** to access the signup btn form for Bitquest **so that** I can gain access to the signup form.| **Given** that the user is on the Bitquest platform, **When** they click on the signup btn **then** the system will go to the signup section, dispaly the form, the form will accept/ validate the users information. |    M   |
 Signup submit btn| SF-7.2 | Gain access to submit button| **As a** user **I want** to access the signup submit btn for Bitquest **so that** I can submit my signup credentials.| **Given** that the user is on the Bitquest platform, **When** they click on the submit button **then** the system will validte the users input .|    M   |
-Play btn| PLB-8.0 | Gain access to play button| **As a** user **I want** to access the play video btn on Bitquest **so that** I can view the video.| **Given** that the user is on the Bitquest platform, **When** they click on the play button **then** the system should play the video .|    M   |
+Play btn| PLB-8.0 | Gain access to play button| **As a** user **I want** to access the play video btn on Bitquest **so that** I can watch the video.| **Given** that the user is on the Bitquest platform, **When** they click on the play button **then** the system should play the video .|    M   |
 Play Close btn| PLB-8.1 | Gain access to the video| **As a** user **I want** to access the close play video icon on Bitquest **so that** I can close the video.| **Given** that the user is on the Bitquest platform, **When** they click on the close button **then** the system should close the video .|    M   |
 
 
