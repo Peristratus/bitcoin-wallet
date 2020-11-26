@@ -28,6 +28,11 @@
  discerniable, I would also like to collaborate with anyone on github to accomplish these set objectives. I hope to develop this project to 
  become ubiquitous with users around the world.
 
+ ### Wireframes & Mock-ups
+ Wireframes file saved with draw.io ,UX Design file saved with draw.io, Sitemap saved with saved with draw.io and Mockups saved with Visio (microsoft)
+ [wireframes](/wireframe-ux-mockups/BITQUEST-wireframe-.drawio)
+
+
 ----------------------------
  ## User-stories
 
@@ -137,7 +142,7 @@ All icons,logos and videos used on my website are only for educational purposes 
 
 1. Social medial icons free version from icon8 [icon8](https://icons8.com/icons/set/youtube-icon)
 2. Hero logo p.1 from free png tree [pngtree](https://icons8.com/icons/set/youtube-icon)
-3. Footer icons [fontawawesome](https://fontawesome.com/v4.7.0/icons/)
+3. Footer icons [fontawesome](https://fontawesome.com/v4.7.0/icons/)
 4. Bitcoin images and gif image free online images.
 5. Testimonial images free online model(s) smiling images.
 6. Hero logo p.2 from free png tree [pngtree](https://icons8.com/icons/set/youtube-icon)
