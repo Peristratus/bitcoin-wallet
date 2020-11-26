@@ -147,5 +147,5 @@ All icons,logos and videos used on my website are only for educational purposes 
 *Name: Olaorebikan Roy Abdallah*\
 *Institute: Canadaian Business College (code Institute).*\
 *Designation: Student.*\
-*Course: Fullstack Developer.*\
+*Course: Fullstack Developer.*
 
