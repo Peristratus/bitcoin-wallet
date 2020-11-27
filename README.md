@@ -133,6 +133,18 @@ Technologies deployed on this project:
  11. Smooth Scroll plug in V16.1.4 [GitHub](http://github.com/cferdinandi/smooth-scroll)
  12. Font Google Poppins [Fontgoogle](https://fonts.google.com/)
 
+ ## Deployment
+ After my User Acceptance Testing (UAT) I pushed the final version of my code to git hub , in my commit message I cataloged each change before my final push, the steps I took 
+ can be seen below, my project is now live on [GitHub](https://peristratus.github.io/bitcoin-wallet/)
+
+ 1. Complete the User UAT evaluation and made sure that all phase 1 codes are funtional and operational.
+ 2. Used git commit -m to catalog all my changes in line with UAT requirement.
+ 3. Used git push to push my final version to my git hub repository. 
+ 4. Clicked on settings on my Peristratus/bitcoin-wallet repository and scrolled down to github pages.
+ 5. Clicked on select branch drop down menu and then selected master.
+
+
+
 ## References
 
 I would like to make references to cetain educational Youtube tutorials and certain articles that have helped with my webdesign develop my skills as a Fullstack developer.
