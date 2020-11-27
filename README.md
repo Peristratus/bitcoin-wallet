@@ -30,10 +30,13 @@
  become ubiquitous with users around the world.
 
  ### Wireframes & Mock-ups
- Wireframes file saved with draw.io ,UX Design file saved with draw.io, Sitemap saved with saved with draw.io and Mockups saved with Visio (microsoft)
- [wireframes](/wireframe-ux-mockups/BITQUEST-wireframe-.drawio)
-
-
+ Wireframes file bqwireframe saved in PDF  ,UX Design file saved in PDF, Sitemap file saved in pdf and Mock-ups file MTD_view saved in PDf.
+ 1.  [wireframes](/wireframe-img/bqwireframe.pdf)
+ 2.  [UX Design](/wireframe-img/bq_ux.pdf)
+ 3.  [Sitemap](/wireframe-img/smap.pdf)
+ 4.  [Mock-ups](/wireframe-img/MTD_view.pdf)
+ 5.  [README file img](/wireframe-img/bqimg.png)
+ 
 ----------------------------
  ## User-stories
 
