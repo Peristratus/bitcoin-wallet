@@ -12,6 +12,7 @@
  - [User-stories](#user-stories)
  - [User-Acceptance-Testing](#User-Acceptance-Testing)
  - [Technologies](#technologies)
+ - [Deployment](#Deployment)
  - [References](#refernces)
  - [Licenses](#licenses)
  - [Author](#author)
@@ -133,6 +134,8 @@ Technologies deployed on this project:
  11. Smooth Scroll plug in V16.1.4 [GitHub](http://github.com/cferdinandi/smooth-scroll)
  12. Font Google Poppins [Fontgoogle](https://fonts.google.com/)
 
+---------------------------------------------
+
  ## Deployment
  After my User Acceptance Testing (UAT) I pushed the final version of my code to git hub , in my commit message I cataloged each change before my final push, the steps I took 
  can be seen below, my project is now live on [GitHub](https://peristratus.github.io/bitcoin-wallet/)
@@ -143,7 +146,7 @@ Technologies deployed on this project:
  4. Clicked on settings on my Peristratus/bitcoin-wallet repository and scrolled down to github pages.
  5. Clicked on select branch drop down menu and then selected master.
 
-
+-----------------------------------------------
 
 ## References
 
@@ -157,6 +160,8 @@ I would like to make references to cetain educational Youtube tutorials and cert
 5. W3 schools tutorials on Modal forms, HTML patterns and querry for HTML forms.
 6. Tutorial Republic on Modal video pop-ups tutorials.
 
+-----------------------------------------------
+
 ## Licenses
 
 All icons,logos and videos used on my website are only for educational purposes and will not be used for the commercial version:
@@ -169,6 +174,8 @@ All icons,logos and videos used on my website are only for educational purposes 
 6. Hero image p.2 from free png tree [pngtree](https://icons8.com/icons/set/youtube-icon)
 7. Youtube BBC bitcoin video [BBC](www.youtube.com/embed/SzAuB2FG79A)
 8. Youtube Bitcoin wallet [Youtube](www.youtube.com/embed/cSy2ms0hHLs)
+
+-----------------------------------------------
 
 ## Author 
 
